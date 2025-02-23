@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: inline-block;
+}
+
+.container label {
+    display: block;
+}
+
+.container button {
+ margin-top: 10px;
+}
+
+.input-row {
+    margin: 5px 0px;
+
+}
+
+.hidden {
+    display: none;
+}
